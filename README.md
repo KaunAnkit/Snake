@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 ANKIT JHA
-- GitHub: KaunAnkit(https://github.com/KaunAnkit)
+- GitHub: KaunAnkit (https://github.com/KaunAnkit)
 - Email: kaunankitjha@gmail.com
 
 ## 🙏 Acknowledgments
